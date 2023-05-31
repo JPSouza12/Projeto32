@@ -1,2 +1,1 @@
-# Projeto32
-Projeto32 BYJU'S
+# Project Template 26
